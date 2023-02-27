@@ -1,2 +1,2 @@
 /// @description [GAME_RESTART]
-game_restart();
+game_restart(); //restart game if R is pressed

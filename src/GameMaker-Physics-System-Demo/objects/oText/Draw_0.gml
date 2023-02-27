@@ -1,6 +1,7 @@
 /// @description [DRAW]
 draw_set_font(fnText);
 
+//draw debug and instructions to screen
 if oCursor.debug == true{
 	draw_text(890, 70, "Left Click to place a physics object");
 	draw_text(890, 90, "Right Click to remove a physics object");
