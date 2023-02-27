@@ -1,0 +1,2 @@
+/// @description [SQUARE]
+mode = "square"
