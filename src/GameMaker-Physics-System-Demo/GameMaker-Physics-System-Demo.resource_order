@@ -14,6 +14,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Particles","order":15,"path":"folders/Particles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oCursor","order":2,"path":"objects/oCursor/oCursor.yy",},
