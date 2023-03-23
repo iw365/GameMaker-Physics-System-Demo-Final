@@ -1,5 +1,4 @@
 /// @description [CURSOR]
-show_debug_overlay(true); //debug
 window_set_cursor(cr_none); //removes standard windows cursor from game
 
 //follow mouse position
